@@ -1,0 +1,31 @@
+200 Is it a song? (Yes/No)
+180 Is it a festive song? (Yes/No)
+160 Is it a Christmas song? (Yes/No)
+158 Is it by Wham! ?(Yes/No)
+157 It's "Last Christmas" by Wham!
+159 It's "All I Want for Christmas Is You" by Mariah Carey
+162 Is it a war-themed song? (Yes/No)
+161 It's "Brothers in Arms" by Dire Straits
+163 It's "The War (Angels + Demons)" by Drake
+190 Is it a romantic song? (Yes/No)
+188 Is it a love ballad? (Yes/No)
+187 It's "Unchained Melody" by The Righteous Brothers
+189 It's "Perfect" by Ed Sheeran
+192 Is it a rock song? (Yes/No)
+191 It's "Bohemian Rhapsody" by Queen
+193 It's "Hotel California" by Eagles
+220 Is it a song? (Yes/No)
+210 Is it a pop song? (Yes/No)
+208 Is it an upbeat song? (Yes/No)
+207 It's "Happy" by Pharrell Williams
+209 It's "Can't Stop the Feeling!" by Justin Timberlake
+212 Is it a hip-hop song? (Yes/No)
+211 It's "Lose Yourself" by Eminem
+213 It's "Sicko Mode" by Travis Scott
+230 Is it a song? (Yes/No)
+228 Is it a sad song? (Yes/No)
+227 It's "Someone Like You" by Adele
+229 It's "Say Something" by Justin Timberlake and Chris Stapleton
+232 Is it a mysterious song? (Yes/No)
+231 It's "The Night We Met" by Lord Huron
+233 It's "Stairway to Heaven" by Led Zeppelin
